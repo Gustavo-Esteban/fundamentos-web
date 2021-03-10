@@ -1,0 +1,98 @@
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+p {
+    font: back to School;
+}
+
+body {
+    background-color: rgb(43, 41, 41);
+}
+
+.container p {
+    color: honeydew;
+}
+
+.container h1 {
+    color: honeydew;
+}
+
+.container h3 {
+    color: honeydew;
+}
+
+.text {
+    color: honeydew;
+    text-align: center;
+}
+
+.menu {
+    padding: 10px;
+}
+
+.menu  li {
+    display: inline;
+    padding: 6px;
+    border-radius: 20px;
+    background-color:grey;
+    margin-left: 5px;
+}
+.menu li:hover {
+    background-color: rgb(71, 71, 71);
+}
+
+.menu a {
+    color: #333;
+    text-decoration: none;
+}
+
+.tm {
+    height: 50px;
+    width: 50px;
+    padding: 30px;
+}
+
+.container2 {
+    
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
+
+.container2 p {
+    color: honeydew;
+}
+
+form label{
+   
+    color: honeydew;
+}
+
+.footer {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
